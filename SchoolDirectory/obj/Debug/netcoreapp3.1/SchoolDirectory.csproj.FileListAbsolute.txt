@@ -1,0 +1,14 @@
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\bin\Debug\netcoreapp3.1\SchoolDirectory.exe
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\bin\Debug\netcoreapp3.1\SchoolDirectory.deps.json
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\bin\Debug\netcoreapp3.1\SchoolDirectory.runtimeconfig.json
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\bin\Debug\netcoreapp3.1\SchoolDirectory.runtimeconfig.dev.json
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\bin\Debug\netcoreapp3.1\SchoolDirectory.dll
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\bin\Debug\netcoreapp3.1\SchoolDirectory.pdb
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.csproj.AssemblyReference.cache
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.AssemblyInfoInputs.cache
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.AssemblyInfo.cs
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.dll
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.pdb
+C:\Users\Raston\source\repos\SchoolDirectory\SchoolDirectory\obj\Debug\netcoreapp3.1\SchoolDirectory.genruntimeconfig.cache
